@@ -1,14 +1,23 @@
-{
-  "juan": [
-    { "domain": "www.spmled.com.cn", "port": 80 },
-    { "domain": "www.spmled.com.cn", "port": 443 },
-    { "domain": "101.33.198.64", "port": 443 },
-    { "domain": "101.33.198.64", "port": 80 }
-  ],
-  "v380": [
-    { "domain": "www.spmled.com.cn", "port": 80 },
-    { "domain": "www.spmled.com.cn", "port": 443 },
-    { "domain": "101.33.198.64", "port": 443 },
-    { "domain": "101.33.198.64", "port": 80 }
-  ]
-}
+[
+    {
+        "name": "juan",
+        "data": [
+            {
+                "domain": "www.spmled.com.cn",
+                "port": 80
+            },
+            {
+                "domain": "www.spmled.com.cn",
+                "port": 443
+            },
+            {
+                "domain": "101.33.198.64",
+                "port": 443
+            },
+            {
+                "domain": "101.33.198.64",
+                "port": 80
+            }
+        ]
+    }
+]
