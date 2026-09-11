@@ -1,0 +1,41 @@
+{
+    "version": 1,
+    "regions": [
+        {
+            "id": "cn",
+            "name": "China",
+            "api": "https://camera-uat.spmled.com.cn",
+            "device": "mqtt.spmled.com.cn:30003"
+        },
+        {
+            "id": "na",
+            "name": "North America",
+            "api": "https://api-na.example.com",
+            "device": "mqtt-na.example.com"
+        },
+        {
+            "id": "sg",
+            "name": "Singapore",
+            "api": "https://api-sg.example.com",
+            "device": "mqtt-sg.example.com"
+        },
+        {
+            "id": "eu",
+            "name": "Europe",
+            "api": "https://api-eu.example.com",
+            "device": "mqtt-eu.example.com"
+        },
+        {
+            "id": "ae",
+            "name": "Dubai",
+            "api": "https://api-ae.example.com",
+            "device": "mqtt-ae.example.com"
+        },
+        {
+            "id": "za",
+            "name": "South Africa",
+            "api": "https://api-za.example.com",
+            "device": "mqtt-za.example.com"
+        }
+    ]
+}
